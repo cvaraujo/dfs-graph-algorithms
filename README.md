@@ -1,2 +1,2 @@
-# AlgorithmsInGraphs
-Works developed in the discipline of Algorithms in Graphs
+## Graph Algorithms
+# Works developed in the Graph Algorithms Course
