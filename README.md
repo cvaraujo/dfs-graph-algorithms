@@ -1,2 +1,2 @@
-## Graph Algorithms
-# Works developed in the Graph Algorithms Course
+# Graph Algorithms
+## Works developed in the Graph Algorithms Course
